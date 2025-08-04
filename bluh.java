@@ -1,3 +1,5 @@
 public class bluh {
-    sfdadfadf
+    public static void main(){
+        
+    }
 }
